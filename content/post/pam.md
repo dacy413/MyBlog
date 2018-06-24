@@ -7,6 +7,8 @@ title = "change busybox login with pam in boot2docker"
 
 +++
 
+因为业务需要修改linux的登录鉴权验证方式，所以研究了下pam模块，修正重新编译后实现。
+
 * install pam
 
   * 使用tcz安装pam包 linux-pam.tcz即可
