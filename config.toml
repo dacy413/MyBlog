@@ -55,6 +55,7 @@ theme = "hyde-x"
 
     # Sidebar social links, these must be full URLs.
     github = "http://dacy413@github.com"
+    linkedin = "ttps://www.linkedin.com/in/曦-戴-39b6aa109"
     #bitbucket = ""
     #stackOverflow = ""
     #linkedin = ""

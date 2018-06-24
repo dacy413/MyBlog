@@ -1,11 +1,11 @@
 # MyBlog http://dacy413.github.io/
 ## build blog 
 
-Hugo
+    Hugo
 
 ## Run server and show drafts
 
-Hugo server --buildDrafts
+    Hugo server --buildDrafts
 
 ## Upload to github
-./deploy.sh
+    ./deploy.sh
